@@ -32,7 +32,6 @@ var userPass = '123456'
 // -- This will overwrite an existing command --
 // Cypress.Commands.overwrite("visit", (originalFn, url, options) => { ... })
 import 'cypress-wait-until';
-import 'cypress-file-upload';
 import 'cypress-iframe';
 
 
