@@ -18,7 +18,6 @@
     "allure:open": "allure open allure-report",
     "allure:generate": "allure generate allure-results"
   },
-
   "author": "",
   "license": "ISC",
   "devDependencies": {
