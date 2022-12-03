@@ -25,7 +25,6 @@
     "@shelex/cypress-allure-plugin": "^2.5.1",
     "allure-commandline": "^2.13.8",
     "cypress": "^9.5.4",
-    "cypress-file-upload": "^3.5.3",
     "cypress-form-data-with-file-upload": "^1.0.0",
     "cypress-otp": "^1.0.3",
     "cypress-social-logins": "^1.5.0",
