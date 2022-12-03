@@ -1,0 +1,132 @@
+{
+  "rows": [
+    {
+      "EmployeeCode": "L9",
+      "LeaderCode": "L2",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA2",
+      "LeaderCode": "SA3",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA4",
+      "LeaderCode": "SA5",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA6",
+      "LeaderCode": "SA7",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA6",
+      "LeaderCode": "SA8",
+      "Priority": 2,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA9",
+      "LeaderCode": "SA10",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA9",
+      "LeaderCode": "SA11",
+      "Priority": 2,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA12",
+      "LeaderCode": "SA13",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA15",
+      "LeaderCode": "SA16",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA17",
+      "LeaderCode": "SA15",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA18",
+      "LeaderCode": "SA19",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "CS19",
+      "LeaderCode": "CS20",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "CS27",
+      "LeaderCode": "CS28",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "CS29",
+      "LeaderCode": "CS30",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "CS31",
+      "LeaderCode": "CS32",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    },
+    {
+      "EmployeeCode": "SA21",
+      "LeaderCode": "SA22",
+      "Priority": 1,
+      "ModuleName": "Leave",
+      "ApprovalMust": "Yes",
+      "ApprovedCancelRights": "Yes"
+    }
+  ]
+}

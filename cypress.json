@@ -1,0 +1,36 @@
+{
+  "failOnStatusCode": false,
+  "pageLoadTimeout": 900000,
+  "requestTimeout": 5000,
+  "responseTimeout": 30000,
+  "projectId": "duexqs",
+  "video": true,
+  "chromeWebSecurity":false,
+  "numTestsKeptInMemory": 0 ,
+ 
+  "testFiles": [
+    "Dashboard//*"
+  ],  
+  
+  "env": {
+  "_url" : "http://192.168.0.249:8027/",
+	"__url":"https://pockethrmscloud.azurewebsites.net/",
+	"url":"https://pockethrmsnext.azurewebsites.net/",
+	"essUrl" : "https://essstaging.azurewebsites.net/",
+  "username": "nileshgajare@live.com", 
+	"userPass" : "123456",
+	"toastWait" : "5000",
+	"pastYear" : "2020",
+	"currentYear" : "2021",
+	"FinancialYear_From" : "2022",
+	"FinancialYear_To" : "2023"	
+  },
+  
+  "retries": {
+	"runMode" : 1,
+	"openMode" : 1
+  },
+ 
+  "experimentalStudio": true
+
+ }

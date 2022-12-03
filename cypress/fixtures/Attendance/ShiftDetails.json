@@ -1,0 +1,72 @@
+[	
+	{
+		"ShiftName"							: 	"General",
+        "FromTime_HH"						: 	"9",
+		"FromTime_MM"						:	"00",
+		"ToTime_HH" 						: 	"17",
+		"ToTime_MM" 						: 	"00",
+		"Status" 							: 	"CurrentInCurrentOut",
+		"ReportShortName" 					: 	"Gen-shift",
+		
+		"ImportINTimeStartAs_Day" 			: 	"Current Date",
+		"ImportINTimeStartAs_HH" 			: 	"7",
+		"ImportINTimeStartAs_MM" 			: 	"00",
+		
+		"ImportINTimeEndAs_Day" 			: 	"Current Date",
+		"ImportINTimeEndAs_HH" 				: 	"13",
+		"ImportINTimeEndAs_MM" 				: 	"30",
+		
+		"ImportOutTimeStartAs_Day" 			: 	"Current Date",
+		"ImportOutTimeStartAs_HH" 			: 	"11",
+		"ImportOutTimeStartAs_MM" 			: 	"31",
+		
+		"ImportOutTimeEndAs_Day" 			: 	"Current Date",
+		"ImportOutTimeEndAs_HH" 			: 	"23",
+		"ImportOutTimeEndAs_MM" 			: 	"00",
+		
+		"LunchINStartAs_Day" 				: 	"- Select -",
+		"LunchINStartAs_HH" 				: 	"00",
+		"LunchINStartAs_MM" 				: 	"00",
+		
+		"LunchINEndAs_Day" 					: 	"- Select -",
+		"LunchINEndAs_HH" 					: 	"00",
+		"LunchINEndAs_MM" 					: 	"00"
+		
+   	} ,
+	
+	{
+		"ShiftName"							: 	"Second",
+      	"FromTime_HH"						: 	"17",
+		"FromTime_MM"						:	"01",
+		"ToTime_HH" 						: 	"23",
+		"ToTime_MM" 						: 	"00",
+		"Status" 							: 	"CurrentInCurrentOut",
+		"ReportShortName" 					: 	"Sec-shift",
+		
+		"ImportINTimeStartAs_Day" 			: 	"Current Date",
+		"ImportINTimeStartAs_HH" 			: 	"14",
+		"ImportINTimeStartAs_MM" 			: 	"00",
+		
+		"ImportINTimeEndAs_Day" 			: 	"Current Date",
+		"ImportINTimeEndAs_HH" 				: 	"19",
+		"ImportINTimeEndAs_MM" 				: 	"30",
+		
+		"ImportOutTimeStartAs_Day" 			: 	"Current Date",
+		"ImportOutTimeStartAs_HH" 			: 	"19",
+		"ImportOutTimeStartAs_MM" 			: 	"31",
+		
+		"ImportOutTimeEndAs_Day" 			: 	"Current Date",
+		"ImportOutTimeEndAs_HH" 			: 	"23",
+		"ImportOutTimeEndAs_MM" 			: 	"55",
+		
+		"LunchINStartAs_Day" 				: 	"Current Date",
+		"LunchINStartAs_HH" 				: 	"20",
+		"LunchINStartAs_MM" 				: 	"00",
+		
+		"LunchINEndAs_Day" 					: 	"Current Date",
+		"LunchINEndAs_HH" 					: 	"21",
+		"LunchINEndAs_MM" 					: 	"00"
+		
+   	} 
+	
+]

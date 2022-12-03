@@ -1,0 +1,11 @@
+{
+  "rows": [
+    {
+      "MachineNo": "1",
+      "DeviceEnrollNo": "A2",
+      "InOutDate": "01/12/2022",
+      "InTime": "09:00",
+      "OutTime": "18:00"
+    }
+  ]
+}
