@@ -33,6 +33,11 @@
 	"openMode" : 1
   },
  
-  "experimentalStudio": true
+  "experimentalStudio": true,
+
+  "group":{
+    "A" :"Dashboard//*",
+    "B" :"Admin//*"
+  }
 
  }
