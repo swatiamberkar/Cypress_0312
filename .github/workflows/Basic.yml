@@ -27,7 +27,7 @@ jobs:
           browser: chrome
           headed: true
           record: true
-          parallel: true
+          parallel: false
           group: 'A, B'
       env:
           # pass the Cypress Cloud record key as an environment variable
