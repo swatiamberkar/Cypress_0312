@@ -156,6 +156,7 @@ Cypress.Commands.add('navigate_EmployeeProfile', (empID) => {
 	cy.wait(3000)
 })
 
+
 Cypress.Commands.add('EssLogin', (empID, pwd) => {
 
 	cy.visit(Cypress.env('essUrl'))

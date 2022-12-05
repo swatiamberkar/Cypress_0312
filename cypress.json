@@ -3,7 +3,7 @@
   "pageLoadTimeout": 900000,
   "requestTimeout": 5000,
   "responseTimeout": 30000,
-  "projectId": "duexqs",
+  "projectId": "pipusk",
   "video": true,
   "chromeWebSecurity":false,
   "numTestsKeptInMemory": 0 ,
@@ -13,6 +13,7 @@
   ],  
   
   "env": {
+
   "_url" : "http://192.168.0.249:8027/",
 	"__url":"https://pockethrmscloud.azurewebsites.net/",
 	"url":"https://pockethrmsnext.azurewebsites.net/",
@@ -23,7 +24,8 @@
 	"pastYear" : "2020",
 	"currentYear" : "2021",
 	"FinancialYear_From" : "2022",
-	"FinancialYear_To" : "2023"	
+	"FinancialYear_To" : "2023"	,
+  "CYPRESS_RECORD_KEY":"  "
   },
   
   "retries": {
