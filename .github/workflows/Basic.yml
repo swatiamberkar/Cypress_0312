@@ -28,7 +28,7 @@ jobs:
           headed: true
           record: true
           parallel: true
-          group: 'A B'
+          group: 'A, B'
       env:
           # pass the Cypress Cloud record key as an environment variable
           CYPRESS_RECORD_KEY: '1ebdf1a1-71ba-4dd1-b3f5-5365ba5b922e'
