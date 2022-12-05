@@ -8,10 +8,6 @@
   "chromeWebSecurity":false,
   "numTestsKeptInMemory": 0 ,
  
-  "testFiles": [
-    "Dashboard//*"
-  ],  
-  
   "env": {
 
   "_url" : "http://192.168.0.249:8027/",
