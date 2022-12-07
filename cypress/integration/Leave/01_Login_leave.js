@@ -1,4 +1,4 @@
-describe('Login <home>', function() {
+describe('Login', function() {
 	
 	beforeEach(function(){
         window.console.log('Enter the beforeEach function')
@@ -9,9 +9,12 @@ describe('Login <home>', function() {
 		cy.wait(2000)
     })
 	
-	it('successfully loads', function() {
+	it(['Smoke'] ,'successfully loads', function() {
 		cy.visit('http://next.pockethrms.com/') 
 	})
 	
-	
+	it('successfully', function() {
+		cy.visit('http://next.pockethrms.com/') 
+	})
+
 	})

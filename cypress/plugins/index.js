@@ -36,10 +36,6 @@ module.exports = (on, config) => {
     return config;
 };
  
-module.exports = (on, config) => {
-
-}
-
 
 
 // <reference types="Cypress" />
@@ -128,6 +124,7 @@ const {downloadFile} = require('cypress-downloadfile/lib/addPlugin')
 
 
 const readXlsx = require('./read-xlsx')
+const tagify = require('cypress-tags');
 
 	module.exports = (on, config) => {
   on('task', {
@@ -274,7 +271,8 @@ const readXlsx = require('./read-xlsx')
     
 
   })
-
+,
+  on('file:preprocessor', tagify(config));
 
 
 }

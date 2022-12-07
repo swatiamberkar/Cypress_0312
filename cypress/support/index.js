@@ -12,7 +12,7 @@
 // You can read more here:
 // https://on.cypress.io/configuration
 // ***********************************************************
-
+/// <reference types='cypress-tags' />
 import '@shelex/cypress-allure-plugin';
 require('cypress-downloadfile/lib/downloadFileCommand')
 

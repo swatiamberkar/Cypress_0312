@@ -21,7 +21,8 @@
 	"currentYear" : "2021",
 	"FinancialYear_From" : "2022",
 	"FinancialYear_To" : "2023"	,
-  "CYPRESS_RECORD_KEY":"  "
+  "CYPRESS_RECORD_KEY":"  ",
+  "CYPRESS_INCLUDE_TAGS" :"Smoke"
   },
   
   "retries": {
@@ -30,6 +31,7 @@
   },
  
   "experimentalStudio": true
+ 
 
 
  }
